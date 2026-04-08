@@ -159,15 +159,6 @@ checked_at: 2026-04-08
 
 ---
 
-## `watch -n 1 github-stats`
-
-<div align="center">
-  <img src="https://readme.u14.app/api/github/stats?userId=nvr5dmhMimYQxUtUQ7KDsZ7cJRoYCSyM" alt="Wade's GitHub Stats" width="48%" />
-  <img src="https://readme.u14.app/api/github/top-langs?userId=nvr5dmhMimYQxUtUQ7KDsZ7cJRoYCSyM" alt="Wade's Top Languages" width="48%" />
-</div>
-
----
-
 ## `ls projects/`
 
 ```txt
