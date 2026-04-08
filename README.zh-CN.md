@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang Badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge" />
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Badge" />
 </p>
 
 ### DevOps
@@ -29,6 +28,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
   <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD Badge" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Badge" />
 </p>
 
 ### AI / LLM
@@ -46,18 +46,14 @@
   <a href="./README.md"><strong>English</strong></a> • <a href="./README.zh-CN.md"><strong>中文</strong></a>
 </p>
 
-```bash
-$ whoami
-Wade
+## `printenv identity`
 
-$ echo $ROLE
-全栈工程师
-
-$ echo $MISSION
-从产品原型到生产系统的完整交付
-
-$ echo $FOCUS
-前端 + 后端 + DevOps + LLM 应用
+```txt
+name=Wade
+role=全栈工程师
+mission=从产品原型到生产系统的完整交付
+focus=前端 + 后端 + DevOps + LLM 应用
+location=Asia/Shanghai
 ```
 
 ---
@@ -65,19 +61,17 @@ $ echo $FOCUS
 ## `cat profile.md`
 
 ```txt
-我是一名拥有 4 年经验的全栈开发工程师。
+我是一名拥有 4 年经验的全栈开发工程师，
 能够独立完成从产品原型到生产系统上线的完整交付。
 我的工作覆盖 Web 应用、微信小程序、公众号 H5、
 后端 API、自动化脚本、部署流水线以及 AI 应用开发。
-```
 
-```txt
 我重视表达清晰、交付效率和线上可用性。
 这意味着我会用 Vue 和 UniApp 快速构建产品界面，
 用 Golang、Python 和 Spring Boot 搭建稳定服务，
-并通过 Docker、Linux、CI/CD 和 Kubernetes 保障系统稳定运行。
+并通过 Docker、Linux、CI/CD、Shell 与 Kubernetes 保障系统稳定运行。
 近一年我重点投入 vLLM、LangChain、LangGraph、RAG、
-Milvus 与 Elasticsearch 检索系统相关的 LLM 应用落地。
+Milvus 与 Elasticsearch 相关的 LLM 应用落地。
 ```
 
 ---
@@ -151,11 +145,14 @@ skills/ai
 ```txt
 google/langextract
 role: contributor
-stars: 35.5K
-checked_at: 2026-04-08
+focus: structured extraction for LLM workflows
 ```
 
-我持续参与开源项目贡献，并保持偏工程实践的建设者思维。其中一个代表性项目是 [google/langextract](https://github.com/google/langextract)，我是该项目的贡献者之一。根据 GitHub 页面，截至 2026 年 4 月 8 日，该项目已有 **35.5K stars**。
+我持续参与开源项目贡献，并保持偏工程实践的建设者思维。
+其中一个代表性项目是 [google/langextract](https://github.com/google/langextract)，
+我是该项目的贡献者之一。
+
+![google/langextract Stars](https://img.shields.io/github/stars/google/langextract?style=flat-square&color=5BC0BE)
 
 ---
 
@@ -168,16 +165,28 @@ ClipboardMonitor_macOS
 ```
 
 ### `cat projects/SmartRelayController`
+仓库：[wade6716/SmartRelayController](https://github.com/wade6716/SmartRelayController)  
 一个基于 ESP8266 的实时控制项目，可联动智能家居场景完成风扇启停控制。  
 ![Stars](https://img.shields.io/github/stars/wade6716/SmartRelayController?style=flat-square&color=5BC0BE)
 
 ### `cat projects/clipboard-event-handler-mac-apple-silicon-arm64-M1`
+仓库：[wade6716/clipboard-event-handler-mac-apple-silicon-arm64-M1](https://github.com/wade6716/clipboard-event-handler-mac-apple-silicon-arm64-M1)  
 一个面向 macOS Apple Silicon 设备优化的剪贴板事件处理工具。  
 ![Stars](https://img.shields.io/github/stars/wade6716/clipboard-event-handler-mac-apple-silicon-arm64-M1?style=flat-square&color=5BC0BE)
 
 ### `cat projects/ClipboardMonitor_macOS`
+仓库：[wade6716/ClipboardMonitor_macOS](https://github.com/wade6716/ClipboardMonitor_macOS)  
 一个轻量级 macOS 剪贴板监控工具，可在内容变化时触发通知。  
 ![Stars](https://img.shields.io/github/stars/wade6716/ClipboardMonitor_macOS?style=flat-square&color=5BC0BE)
+
+---
+
+## `find . -maxdepth 1 -name "contact*"`
+
+```txt
+GitHub: https://github.com/wade6716
+README: bilingual (English / 中文)
+```
 
 ---
 
@@ -189,7 +198,8 @@ ClipboardMonitor_macOS
 
 ---
 
-```bash
-$ exit
+## `exit`
+
+```txt
 清晰思考，扎实构建，稳定交付。
 ```

@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang Badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot Badge" />
-  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Badge" />
 </p>
 
 ### DevOps
@@ -29,6 +28,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Badge" />
   <img src="https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD Badge" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes Badge" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Badge" />
 </p>
 
 ### AI / LLM
@@ -46,18 +46,14 @@
   <a href="./README.md"><strong>English</strong></a> • <a href="./README.zh-CN.md"><strong>中文</strong></a>
 </p>
 
-```bash
-$ whoami
-Wade
+## `printenv identity`
 
-$ echo $ROLE
-Full-stack Engineer
-
-$ echo $MISSION
-Build complete products from prototype to production
-
-$ echo $FOCUS
-Frontend + Backend + DevOps + LLM Applications
+```txt
+name=Wade
+role=Full-stack Engineer
+mission=Build complete products from prototype to production
+focus=Frontend + Backend + DevOps + LLM Applications
+location=Asia/Shanghai
 ```
 
 ---
@@ -65,19 +61,17 @@ Frontend + Backend + DevOps + LLM Applications
 ## `cat profile.md`
 
 ```txt
-I am a full-stack engineer with 4 years of experience.
-I can independently deliver the full path from product prototype to production system.
+I am a full-stack engineer with 4 years of experience,
+able to deliver the full path from product prototype to production rollout.
 My work spans Web applications, WeChat Mini Programs, Official Account H5,
 backend APIs, automation tooling, deployment pipelines, and AI application engineering.
-```
 
-```txt
-I focus on clean product thinking, fast execution, and production-grade delivery.
+I care about clear communication, delivery speed, and production reliability.
 That means polished interfaces with Vue and UniApp,
 reliable services with Golang, Python, and Spring Boot,
-and stable infrastructure with Docker, Linux, CI/CD, and Kubernetes.
+and stable infrastructure with Docker, Linux, CI/CD, Shell, and Kubernetes.
 Over the last year, I have been especially focused on vLLM, LangChain,
-LangGraph, RAG, Milvus, and Elasticsearch-based retrieval systems.
+LangGraph, RAG, Milvus, and Elasticsearch-backed LLM systems.
 ```
 
 ---
@@ -151,11 +145,14 @@ skills/ai
 ```txt
 google/langextract
 role: contributor
-stars: 35.5K
-checked_at: 2026-04-08
+focus: structured extraction for LLM workflows
 ```
 
-I actively contribute to open-source projects with a builder mindset. One standout example is [google/langextract](https://github.com/google/langextract), where I am one of the contributors. As of April 8, 2026, the project has **35.5K stars** on GitHub.
+I actively contribute to open-source projects with a builder mindset.
+One standout example is [google/langextract](https://github.com/google/langextract),
+where I am one of the contributors.
+
+![google/langextract Stars](https://img.shields.io/github/stars/google/langextract?style=flat-square&color=5BC0BE)
 
 ---
 
@@ -168,16 +165,28 @@ ClipboardMonitor_macOS
 ```
 
 ### `cat projects/SmartRelayController`
+Repo: [wade6716/SmartRelayController](https://github.com/wade6716/SmartRelayController)  
 A practical ESP8266-based controller for real-time fan switching with smart-home linkage.  
 ![Stars](https://img.shields.io/github/stars/wade6716/SmartRelayController?style=flat-square&color=5BC0BE)
 
 ### `cat projects/clipboard-event-handler-mac-apple-silicon-arm64-M1`
+Repo: [wade6716/clipboard-event-handler-mac-apple-silicon-arm64-M1](https://github.com/wade6716/clipboard-event-handler-mac-apple-silicon-arm64-M1)  
 A clipboard event handler optimized for Apple Silicon devices on macOS.  
 ![Stars](https://img.shields.io/github/stars/wade6716/clipboard-event-handler-mac-apple-silicon-arm64-M1?style=flat-square&color=5BC0BE)
 
 ### `cat projects/ClipboardMonitor_macOS`
+Repo: [wade6716/ClipboardMonitor_macOS](https://github.com/wade6716/ClipboardMonitor_macOS)  
 A lightweight macOS utility for monitoring clipboard changes and triggering notifications.  
 ![Stars](https://img.shields.io/github/stars/wade6716/ClipboardMonitor_macOS?style=flat-square&color=5BC0BE)
+
+---
+
+## `find . -maxdepth 1 -name "contact*"`
+
+```txt
+GitHub: https://github.com/wade6716
+README: bilingual (English / 中文)
+```
 
 ---
 
@@ -189,7 +198,8 @@ A lightweight macOS utility for monitoring clipboard changes and triggering noti
 
 ---
 
-```bash
-$ exit
+## `exit`
+
+```txt
 Clear thinking. Practical building. Production-ready delivery.
 ```
