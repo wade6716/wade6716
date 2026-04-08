@@ -1,4 +1,4 @@
-# `wade@github:~$ ./portfolio`
+# `wade@github:~$ ./作品集`
 
 <p align="center">
   <a href="./README.md"><strong>English</strong></a> • <a href="./README.zh-CN.md"><strong>中文</strong></a>
@@ -9,17 +9,17 @@ $ whoami
 Wade
 
 $ echo $ROLE
-Full-stack Engineer
+全栈工程师
 
 $ echo $MISSION
-Build complete products from prototype to production
+从产品原型到生产系统的完整交付
 
 $ echo $FOCUS
-Frontend + Backend + DevOps + LLM Applications
+前端 + 后端 + DevOps + LLM 应用
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=900&color=5BC0BE&center=true&vCenter=true&width=900&lines=%24+whoami+%3D%3E+Full-stack+Engineer;%24+ls+skills%2F+%3D%3E+Vue+Golang+Python+Kubernetes+RAG;%24+cat+focus.txt+%3D%3E+Production-ready+systems+and+LLM+apps;%24+grep+-R+opensource+.%2F+%3D%3E+google%2Flangextract+contributor" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2600&pause=900&color=5BC0BE&center=true&vCenter=true&width=960&lines=%24+whoami+%3D%3E+%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88;%24+ls+skills%2F+%3D%3E+Vue+Golang+Python+Kubernetes+RAG;%24+cat+focus.txt+%3D%3E+%E7%94%9F%E4%BA%A7%E7%BA%A7%E7%B3%BB%E7%BB%9F%E4%B8%8E+LLM+%E5%BA%94%E7%94%A8;%24+grep+-R+opensource+.%2F+%3D%3E+google%2Flangextract+contributor" alt="Typing Intro" />
 </div>
 
 ---
@@ -27,19 +27,19 @@ Frontend + Backend + DevOps + LLM Applications
 ## `cat profile.md`
 
 ```txt
-I am a full-stack engineer with 4 years of experience.
-I can independently deliver the full path from product prototype to production system.
-My work spans Web applications, WeChat Mini Programs, Official Account H5,
-backend APIs, automation tooling, deployment pipelines, and AI application engineering.
+我是一名拥有 4 年经验的全栈开发工程师。
+能够独立完成从产品原型到生产系统上线的完整交付。
+我的工作覆盖 Web 应用、微信小程序、公众号 H5、
+后端 API、自动化脚本、部署流水线以及 AI 应用开发。
 ```
 
 ```txt
-I focus on clean product thinking, fast execution, and production-grade delivery.
-That means polished interfaces with Vue and UniApp,
-reliable services with Golang, Python, and Spring Boot,
-and stable infrastructure with Docker, Linux, CI/CD, and Kubernetes.
-Over the last year, I have been especially focused on vLLM, LangChain,
-LangGraph, RAG, Milvus, and Elasticsearch-based retrieval systems.
+我重视表达清晰、交付效率和线上可用性。
+这意味着我会用 Vue 和 UniApp 快速构建产品界面，
+用 Golang、Python 和 Spring Boot 搭建稳定服务，
+并通过 Docker、Linux、CI/CD 和 Kubernetes 保障系统稳定运行。
+近一年我重点投入 vLLM、LangChain、LangGraph、RAG、
+Milvus 与 Elasticsearch 检索系统相关的 LLM 应用落地。
 ```
 
 ---
@@ -100,10 +100,10 @@ skills/ai
 ## `cat strengths.log`
 
 ```txt
-[PASS] End-to-end product delivery: from interface to infrastructure
-[PASS] Independent execution: from prototype to launch
-[PASS] Applied AI engineering: LLM deployment and RAG systems
-[PASS] Production mindset: systems should ship fast and run reliably
+[PASS] 端到端交付：从界面到基础设施
+[PASS] 独立推进：从原型到上线
+[PASS] AI 工程能力：LLM 部署与 RAG 系统
+[PASS] 生产思维：不仅开发得快，也要运行得稳
 ```
 
 ---
@@ -117,7 +117,7 @@ stars: 35.5K
 checked_at: 2026-04-08
 ```
 
-I actively contribute to open-source projects with a builder mindset. One standout example is [google/langextract](https://github.com/google/langextract), where I am one of the contributors. As of April 8, 2026, the project has **35.5K stars** on GitHub.
+我持续参与开源项目贡献，并保持偏工程实践的建设者思维。其中一个代表性项目是 [google/langextract](https://github.com/google/langextract)，我是该项目的贡献者之一。根据 GitHub 页面，截至 2026 年 4 月 8 日，该项目已有 **35.5K stars**。
 
 ---
 
@@ -177,15 +177,15 @@ ClipboardMonitor_macOS
 ```
 
 ### `cat projects/SmartRelayController`
-A practical ESP8266-based controller for real-time fan switching with smart-home linkage.  
+一个基于 ESP8266 的实时控制项目，可联动智能家居场景完成风扇启停控制。  
 ![Stars](https://img.shields.io/github/stars/wade6716/SmartRelayController?style=flat-square&color=5BC0BE)
 
 ### `cat projects/clipboard-event-handler-mac-apple-silicon-arm64-M1`
-A clipboard event handler optimized for Apple Silicon devices on macOS.  
+一个面向 macOS Apple Silicon 设备优化的剪贴板事件处理工具。  
 ![Stars](https://img.shields.io/github/stars/wade6716/clipboard-event-handler-mac-apple-silicon-arm64-M1?style=flat-square&color=5BC0BE)
 
 ### `cat projects/ClipboardMonitor_macOS`
-A lightweight macOS utility for monitoring clipboard changes and triggering notifications.  
+一个轻量级 macOS 剪贴板监控工具，可在内容变化时触发通知。  
 ![Stars](https://img.shields.io/github/stars/wade6716/ClipboardMonitor_macOS?style=flat-square&color=5BC0BE)
 
 ---
@@ -200,5 +200,5 @@ A lightweight macOS utility for monitoring clipboard changes and triggering noti
 
 ```bash
 $ exit
-Clear thinking. Practical building. Production-ready delivery.
+清晰思考，扎实构建，稳定交付。
 ```
